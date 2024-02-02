@@ -1,2 +1,6 @@
 fuck you ritvik
+<<<<<<< HEAD
 Hahahahahahaha
+=======
+mommoomomo
+>>>>>>> 26301b0 (fix:momo)
